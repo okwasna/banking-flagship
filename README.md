@@ -1,5 +1,4 @@
-# banking-flagship
-# 🏦 Mini-Bank – projekt analityczny
+# Mini-Bank – projekt analityczny
 
 Ten projekt to symulacja pracy **analityka biznesowo-systemowego** w branży bankowej.  
 Przedstawia proces tworzenia systemu obsługującego **konto osobiste oraz przelewy krajowe** — od pomysłu, przez analizę procesów biznesowych, aż po model danych i testy akceptacyjne.
@@ -9,7 +8,7 @@ modelowanie procesów (BPMN), analizę wymagań (UML, user stories), tworzenie s
 
 ---
 
-## 🎯 Cel projektu
+## Cel projektu
 
 Celem jest zaprezentowanie umiejętności analitycznych w kontekście systemów finansowych:
 - zrozumienie potrzeb biznesowych użytkownika banku,  
@@ -20,7 +19,7 @@ Celem jest zaprezentowanie umiejętności analitycznych w kontekście systemów 
 
 ---
 
-## 🧩 Zakres funkcjonalny (MVP)
+## Zakres funkcjonalny (MVP)
 
 1. Zakładanie konta (proces KYC)  
 2. Logowanie i podgląd salda  
@@ -32,7 +31,7 @@ Poza zakresem: przelewy zagraniczne, karty płatnicze, lokaty, pożyczki.
 
 ---
 
-## 🗂 Struktura repozytorium
+## Struktura repozytorium
 
 | Folder | Zawartość |
 |---------|------------|
@@ -48,7 +47,7 @@ Poza zakresem: przelewy zagraniczne, karty płatnicze, lokaty, pożyczki.
 
 ---
 
-## 🧠 Użyte narzędzia
+##  Użyte narzędzia
 
 - **Draw.io** – modelowanie BPMN i UML  
 - **Figma** – makiety interfejsu użytkownika  
@@ -57,17 +56,17 @@ Poza zakresem: przelewy zagraniczne, karty płatnicze, lokaty, pożyczki.
 
 ---
 
-## 🚀 Status projektu
+##  Status projektu
 
 📅 Projekt w trakcie realizacji (etap: definiowanie wizji i wymagań).  
 Repozytorium będzie uzupełniane etapami – każdy folder odpowiada kolejnemu krokowi w analizie systemu bankowego.
 
 ---
 
-## ✍️ Autor
+##  Autor
 
 **Oliwia Kwaśna**  
-Project & Business Analysis Enthusiast  
+Project & Business/ System  Analysis Enthusiast  
 📍 Polska  
 🔗 [LinkedIn](https://www.linkedin.com/in/oliwiakwa%C5%9Bna/)  
 
