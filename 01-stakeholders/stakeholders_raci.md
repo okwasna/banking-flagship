@@ -1,4 +1,4 @@
-#  Interesariusze i macierz RACI – projekt Mini-bank
+#  Interesariusze – projekt Mini-bank
 
 Dokument definiuje interesariuszy projektu **Mini-bank** oraz ich role i odpowiedzialności w ramach systemu.  
 Zawiera listę aktorów (zewnętrznych i wewnętrznych).
