@@ -16,7 +16,7 @@ Dokument definiuje kluczowe wskaźniki efektywności (KPI) dla projektu **Mini-b
 
 | ID | Nazwa wskaźnika | Opis | Wartość docelowa | Cel |
 |----|------------------|------|------------------|------|
-| **KPI-01** | Czas wykonania przelewu (P95) | 95% przelewów ma zostać wykonanych w czasie ≤ 2 sekund od momentu zlecenia do potwierdzenia. | ≤ **2 s** | Wydajność i UX |
+| **KPI-01** | Czas wykonania przelewu (P95) | 95% przelewów ma zostać wykonanych w czasie ≤ 2 sekund od momentu zlecenia do potwierdzenia. | ≤ **2 s** | Wydajność  |
 | **KPI-02** | Skuteczność logowania | Odsetek udanych logowań w stosunku do wszystkich prób (bez błędów systemowych i timeoutów). | ≥ **99%** | Stabilność systemu |
 | **KPI-03** | Odsetek zablokowanych podejrzanych przelewów | Procent transakcji oznaczonych jako podejrzane przez system antyfraudowy. | ≥ **0,2%** | Bezpieczeństwo transakcji |
 | **KPI-04** | Czas pierwszej decyzji w reklamacji | Średni czas od złożenia reklamacji do pierwszej odpowiedzi banku (np. potwierdzenia przyjęcia lub decyzji wstępnej). | ≤ **48 h** | Efektywność obsługi klienta |
