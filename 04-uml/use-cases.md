@@ -116,6 +116,7 @@ Każdy przypadek został oznaczony unikalnym identyfikatorem (UC-ID) i opisuje k
 - Brak odpowiedzi AML → status „oczekuje na weryfikację”.
 
 **Powiązania:** BR-01 (Limits), BR-06 (Audit), NFR – Auditability
+
 ---
 
 📚 *Dokument opracowany w ramach etapu „UML – Use Cases” projektu Mini-bank (04-uml/use-cases.md).*
