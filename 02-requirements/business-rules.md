@@ -15,7 +15,7 @@ Każda reguła posiada unikalny identyfikator (BR-ID), opis działania oraz uzas
 | **BR-04** | KYC gate | Konto użytkownika staje się **aktywne dopiero po pozytywnej weryfikacji KYC**. | Zgodność z regulacjami bankowymi i AML. |
 | **BR-05** | Claim window | Reklamację można złożyć **w ciągu 30 dni** od daty wykonania transakcji. | Uporządkowanie procesu reklamacyjnego i archiwizacji danych. |
 | **BR-06** | Audit | Wszystkie zmiany limitów i statusów transakcji są **audytowane** – zapis kto, co i kiedy zmienił. | Przejrzystość, bezpieczeństwo i możliwość śledzenia historii. |
-| **BR-07** | Timeout | W przypadku awarii lub timeoutu operatora rozliczeń: wykonaj **2 próby ponowienia**, a następnie ustaw status *pending* z komunikatem dla klienta. | Zapewnienie ciągłości działania i poprawnej informacji dla użytkownika. |
+
 
 ---
 
