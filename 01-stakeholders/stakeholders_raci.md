@@ -1,7 +1,7 @@
 #  Interesariusze i macierz RACI – projekt Mini-bank
 
 Dokument definiuje interesariuszy projektu **Mini-bank** oraz ich role i odpowiedzialności w ramach systemu.  
-Zawiera listę aktorów (zewnętrznych i wewnętrznych) oraz macierz RACI określającą zakres ich zaangażowania.
+Zawiera listę aktorów (zewnętrznych i wewnętrznych).
 
 ---
 
@@ -28,23 +28,6 @@ Zawiera listę aktorów (zewnętrznych i wewnętrznych) oraz macierz RACI okreś
 | **Tester / QA** | Rola projektowa | Weryfikuje poprawność działania systemu i testuje wymagania. |
 | **Administrator / DevOps** | Rola techniczna | Dba o wdrożenie, bezpieczeństwo i wydajność środowiska. |
 
----
-
-##  Macierz RACI (skrót odpowiedzialności)
-
-| Obszar / zadanie | Klient | Aplikacja | Backend | Operator ELIXIR | KYC/AML | Konsultant | Analityk | PO | Dev | QA |
-|-------------------|---------|-----------|----------|------------------|----------|-------------|----------|----|-----|----|
-| Założenie konta (KYC light) | R | A | C | I | C | I | C | A | I | I |
-| Logowanie użytkownika | R | A | C | I | I | I | C | A | R | C |
-| Przelew krajowy | R | A | R | C | I | I | C | A | R | C |
-| Reklamacja przelewu | R | C | C | I | I | R | C | A | I | C |
-| Raportowanie KPI | I | I | A | I | I | I | R | A | I | C |
-
-Legenda:  
-**R** – Responsible (odpowiedzialny za wykonanie),  
-**A** – Accountable (ponosi odpowiedzialność),  
-**C** – Consulted (konsultowany),  
-**I** – Informed (informowany).
 
 ---
 
