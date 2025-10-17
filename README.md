@@ -58,7 +58,7 @@ Poza zakresem: przelewy zagraniczne, karty płatnicze, lokaty, pożyczki.
 
 ##  Status projektu
 
-📅 Projekt w trakcie realizacji (etap: modelowanie UML).  
+📅 Projekt w trakcie realizacji (etap: modelowanie UML- pozostale UC + diagram klas dla UC3).  
 Repozytorium będzie uzupełniane etapami – każdy folder odpowiada kolejnemu krokowi w analizie systemu bankowego.
 
 ---
