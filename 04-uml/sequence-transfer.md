@@ -42,7 +42,7 @@ Diagram przedstawia sekwencję komunikatów pomiędzy aktorami i systemami podcz
 ---
 
 #### Diagram:
-![Sequence Diagram – UC-03: Wyślij przelew](https://raw.githubusercontent.com/okwasna/banking-flagship/refs/heads/main/04-uml/sequence-transfer-uc03.png)
+![Sequence Diagram – UC-03: Wyślij przelew](https://raw.githubusercontent.com/okwasna/banking-flagship/refs/heads/main/04-uml/sequence-transfer-uc-03.png)
 
 ---
 
