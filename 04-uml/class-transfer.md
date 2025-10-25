@@ -9,3 +9,4 @@ Kluczowe reguły biznesowe:
 - BR-04 – aktywacja konta po pozytywnym KYC (`KycCheck`)
 - BR-06 – audyt logowań i transakcji (`UserSession`)
 - BR-07 – obsługa timeout operatora (`Transfer.status = PENDING`)
+![Class Diagram – Mini-bank](./class-transfer.png)
