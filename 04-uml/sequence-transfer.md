@@ -46,5 +46,5 @@ Diagram przedstawia sekwencję komunikatów pomiędzy aktorami i systemami podcz
 
 ---
 
-📘 *Diagram opracowany w notacji UML (Sequence Diagram) w narzędziu draw.io w ramach projektu Mini-bank.*
+ *Diagram opracowany w notacji UML (Sequence Diagram) w narzędziu draw.io w ramach projektu Mini-bank.*
 
