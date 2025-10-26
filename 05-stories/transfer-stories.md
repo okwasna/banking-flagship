@@ -80,13 +80,3 @@ Zmiana widoczna jest natychmiast po powrocie do ekranu głównego.
 | **BR-02** | Limit dzienny | Kwota przelewów w ciągu dnia nie może przekroczyć ustalonego limitu. |
 | **BR-03** | Saldo konta | Przelew może być wykonany tylko, jeśli saldo jest wystarczające. |
 
----
-
- **Powiązania:**  
-- Diagram sekwencji – [`sequence-transfer-uc03.png`](https://raw.githubusercontent.com/okwasna/banking-flagship/refs/heads/main/04-uml/sequence-transfer-uc03.drawio.png)  
-- Diagram klas – [`class-transfer.png`](https://raw.githubusercontent.com/okwasna/banking-flagship/refs/heads/main/04-uml/class-transfer.drawio.png)
-
----
-
-🧠 *Plik opracowany w ramach etapu „Stories + Acceptance” projektu Mini-bank (UC-03: Wyślij przelew).*  
-
