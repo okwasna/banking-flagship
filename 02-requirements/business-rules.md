@@ -14,8 +14,6 @@ Każda reguła posiada unikalny identyfikator (BR-ID), opis działania oraz uzas
 | **BR-03** | Funds | Jeśli na koncie nie ma wystarczających środków → transakcja zostaje odrzucona z komunikatem pokazującym brakującą kwotę. | Ochrona użytkownika i zapobieganie błędnym transakcjom. |
 | **BR-04** | KYC gate | Konto użytkownika staje się **aktywne dopiero po pozytywnej weryfikacji KYC**. | Zgodność z regulacjami bankowymi i AML. |
 | **BR-05** | Claim window | Reklamację można złożyć **w ciągu 30 dni** od daty wykonania transakcji. | Uporządkowanie procesu reklamacyjnego i archiwizacji danych. |
-| **BR-06** | Audit | Wszystkie zmiany limitów i statusów transakcji są **audytowane** – zapis kto, co i kiedy zmienił. | Przejrzystość, bezpieczeństwo i możliwość śledzenia historii. |
-
 
 ---
 
