@@ -1,7 +1,7 @@
 #  UC-03 – Wyślij przelew  
 
 Dokument zawiera zestaw **User Stories** opisujących przypadek użycia *UC-03 – Wyślij przelew krajowy*  
-w systemie **Mini-bank**. Historie obejmują zarówno scenariusz sukcesu, jak i warianty błędów oraz działania audytowe.
+w systemie **Mini-bank**. Historie obejmują zarówno scenariusz sukcesu, jak i warianty błędów.
 
 ---
 
