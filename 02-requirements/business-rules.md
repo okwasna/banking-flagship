@@ -21,7 +21,6 @@ Każda reguła posiada unikalny identyfikator (BR-ID), opis działania oraz uzas
 
 - Reguły obowiązują w wersji **MVP (v1.0)** systemu Mini-bank.  
 - Każda reguła może być rozszerzana o warunki, wyjątki i powiązane procesy BPMN.  
-- Reguły są powiązane z przypadkami użycia (`04-uml/use-cases/`) oraz testami akceptacyjnymi (`07-uat/`).
 
 ---
 
