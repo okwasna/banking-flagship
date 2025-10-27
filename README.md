@@ -20,14 +20,17 @@ Celem jest zaprezentowanie umiejętności analitycznych w kontekście systemów 
 ---
 
 ## Zakres funkcjonalny (MVP)
-
-1. Zakładanie konta (proces KYC)  
-2. Logowanie i podgląd salda  
-3. Wykonanie przelewu krajowego  
-4. Historia transakcji  
-5. Reklamacja przelewu  
-
-Poza zakresem: przelewy zagraniczne, karty płatnicze, lokaty, pożyczki.
+W ramach MVP system obejmuje następujące funkcjonalności:
+Zakładanie konta (proces KYC) – możliwość utworzenia nowego konta użytkownika z weryfikacją tożsamości.
+Logowanie i podgląd salda – uwierzytelnianie użytkownika oraz wyświetlanie aktualnego stanu konta i podstawowych danych klienta.
+Wykonanie przelewu krajowego – inicjacja i realizacja przelewów pomiędzy kontami krajowymi.
+Historia transakcji – dostęp do listy wykonanych operacji wraz z filtrowaniem po dacie, kwocie i statusie.
+Reklamacja przelewu – możliwość zgłoszenia błędnej lub nieautoryzowanej transakcji.
+Poza zakresem MVP (out of scope):
+Przelewy zagraniczne,
+Karty płatnicze,
+Lokaty i rachunki oszczędnościowe,
+Pożyczki i kredyty.
 
 ---
 
