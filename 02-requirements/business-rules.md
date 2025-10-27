@@ -14,7 +14,7 @@ Każda reguła posiada unikalny identyfikator (BR-ID), opis działania oraz uzas
 | **BR-03** | Funds | Jeśli na koncie nie ma wystarczających środków → transakcja zostaje odrzucona z komunikatem pokazującym brakującą kwotę. | Ochrona użytkownika i zapobieganie błędnym transakcjom. |
 | **BR-04** | KYC gate | Konto użytkownika staje się **aktywne dopiero po pozytywnej weryfikacji KYC**. | Zgodność z regulacjami bankowymi i AML. |
 | **BR-05** | Claim window | Reklamację można złożyć **w ciągu 30 dni** od daty wykonania transakcji. | Uporządkowanie procesu reklamacyjnego i archiwizacji danych. |
-
+| **BR-07** | Timeout sesji / Przelewy, Logowanie | System automatycznie przerywa operację, jeśli użytkownik nie potwierdzi działania (np. przelewu lub logowania) w ciągu **60 sekund**. Po przekroczeniu limitu czasu system wyświetla komunikat: *„Przekroczono limit czasu – spróbuj ponownie.”* | Zapewnienie bezpieczeństwa sesji oraz stabilności systemu poprzez unikanie zablokowania zasobów przy długotrwałej bezczynności użytkownika. |
 ---
 
 ##  Uwagi
