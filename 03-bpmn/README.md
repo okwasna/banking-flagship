@@ -28,10 +28,7 @@ Każdy proces opisuje główne funkcjonalności systemu obsługi konta osobisteg
 
 ---
 
-##  Format plików
-
-- `.drawio` – pełna wersja edytowalna (można otworzyć w [app.diagrams.net](https://app.diagrams.net))  
-- `.png` (opcjonalnie) – eksport do podglądu statycznego w repozytorium  
+![BPMN – Onboarding/KYC](./BPMN_01_Onboarding_KYC.png)
 
 ---
 
