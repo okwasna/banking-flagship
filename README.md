@@ -4,7 +4,7 @@ Ten projekt to symulacja pracy **analityka biznesowo-systemowego** w branży ban
 Przedstawia proces tworzenia systemu obsługującego **konto osobiste oraz przelewy krajowe** — od pomysłu, przez analizę procesów biznesowych, aż po model danych i testy akceptacyjne.
 
 Projekt został stworzony jako element portfolio i pokazuje pełny przekrój pracy analityka:  
-modelowanie procesów (BPMN), analizę wymagań (UML, user stories), tworzenie struktur danych (SQL) i przygotowanie scenariuszy testowych (UAT).
+modelowanie procesów (BPMN), analizę wymagań (UML, user stories) i tworzenie struktur danych (SQL).
 
 ---
 
@@ -58,7 +58,7 @@ Poza zakresem: przelewy zagraniczne, karty płatnicze, lokaty, pożyczki.
 
 ##  Status projektu
 
-📅 Projekt w trakcie realizacji (etap: modelowanie UML- pozostale UC + diagram klas dla UC3).  
+📅 Projekt w trakcie realizacji (etap: modelowanie BPMN).  
 Repozytorium będzie uzupełniane etapami – każdy folder odpowiada kolejnemu krokowi w analizie systemu bankowego.
 
 ---
