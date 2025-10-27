@@ -43,10 +43,7 @@ Celem jest potwierdzenie tożsamości klienta w ramach procedury **KYC (Know You
 
 ---
 
-###  Podgląd diagramu
- [Otwórz diagram w przeglądarce (Draw.io)](https://app.diagrams.net/?src=about)  
-*(po otwarciu wybierz plik `BPMN_01_Onboarding_KYC.drawio` z folderu `03-bpmn/`)*
-
+![BPMN – Onboarding/KYC](./Onboarding _ KYC BPMN.png)
 ---
 
 ###  Komentarz analityczny
