@@ -28,7 +28,7 @@ Każdy proces opisuje główne funkcjonalności systemu obsługi konta osobisteg
 
 ---
 
-![BPMN – Onboarding/KYC](./Onboarding _ KYC BPMN.png)
+![Onboarding _ KYC BPMN.png](./Onboarding _ KYC BPMN.png)
 
 ---
 
