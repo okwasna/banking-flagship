@@ -1,7 +1,7 @@
 #  Wymagania niefunkcjonalne (NFR) – projekt Mini-bank
 
 Dokument definiuje kluczowe **wymagania niefunkcjonalne (Non-Functional Requirements)** dla systemu Mini-bank.  
-Opisują one jakość działania systemu – jego wydajność, bezpieczeństwo, dostępność i audytowalność.
+Opisują one jakość działania systemu – jego wydajność, bezpieczeństwo i dostępność.
 
 ---
 
@@ -33,16 +33,6 @@ Opisują one jakość działania systemu – jego wydajność, bezpieczeństwo, 
 | **System (MVP)** | Dostępność systemu na poziomie **≥ 99.5% miesięcznie** (z wyłączeniem okien serwisowych). | 99.5% uptime |
 
  *Cel: zapewnienie stabilności i zaufania klientów do systemu bankowego.*
-
----
-
-##  Auditability (audytowalność)
-
-| Obszar | Wymaganie | Metryka |
-|---------|------------|---------|
-| **Zmiany limitów i transakcji** | Każda zmiana wartości limitu lub statusu transakcji musi być **zapisywana z timestampem i identyfikatorem użytkownika/aktora.** | 100% operacji audytowanych |
-
- *Cel: pełna przejrzystość i możliwość śledzenia historii działań.*
 
 ---
 
