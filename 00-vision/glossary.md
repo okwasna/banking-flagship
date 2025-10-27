@@ -17,7 +17,6 @@ Celem słownika jest ujednolicenie języka między zespołem technicznym, biznes
 | **Settlement (rozliczenie)** | Zakończenie transakcji | Etap, w którym bank potwierdza, że przelew został ostatecznie zaksięgowany. |
 | **Timeout** | Przekroczenie limitu czasu | Błąd, gdy system nie otrzyma odpowiedzi w określonym czasie. |
 | **Session (sesja)** | Połączenie użytkownika z systemem | Okres aktywności użytkownika po zalogowaniu. |
-| **Encryption** | Szyfrowanie danych | Proces zabezpieczania danych przed nieautoryzowanym dostępem. |
 | **Account balance** | Saldo konta | Aktualna kwota środków dostępnych na rachunku klienta. |
 | **Transaction history** | Historia transakcji | Lista wszystkich wykonanych przelewów i operacji. |
 | **Pending transaction** | Transakcja oczekująca | Operacja, która została zainicjowana, ale nie została jeszcze rozliczona. |
