@@ -11,7 +11,7 @@ Zawiera listę aktorów (zewnętrznych i wewnętrznych).
 |--------|------|------|
 | **Klient (użytkownik aplikacji)** | Osoba fizyczna | Korzysta z aplikacji bankowej: zakłada konto, loguje się, wykonuje przelewy, składa reklamacje. |
 | **Aplikacja bankowa (frontend)** | System | Interfejs użytkownika – umożliwia logowanie, podgląd salda i wykonywanie przelewów. |
-| **Backend bankowy (system)** | System | Warstwa serwerowa – odpowiada za logikę biznesową, przetwarzanie danych i komunikację z modułami. |
+| **System bankowy (backend)** | System | Warstwa serwerowa – odpowiada za logikę biznesową, przetwarzanie danych i komunikację z modułami. |
 | **Zewnętrzny operator rozliczeń (np. ELIXIR)** | System zewnętrzny | Realizuje przekazy pieniężne między bankami. W systemie Mini-bank jest traktowany abstrakcyjnie. |
 | **Moduł KYC/AML** | System zewnętrzny / usługa | Odpowiada za weryfikację tożsamości użytkownika i sprawdzanie ryzyka prania pieniędzy. |
 | **Konsultant (obsługa klienta)** | Osoba | Pracownik banku odpowiedzialny za przyjmowanie reklamacji i kontakt z klientem. |
