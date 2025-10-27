@@ -58,9 +58,8 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 |--------|------------|
 | Wydajność | system obsługuje ≤ 50 zapytań na minutę |
 | Klient | jeden klient może wykonać ≤ 20 przelewów dziennie |
-| Bezpieczeństwo | logowanie z 2FA, szyfrowanie danych w spoczynku |
+| Bezpieczeństwo | logowanie z 2FA |
 | Dostępność | system działa 24/7 z dostępnością ≥ 99,5% miesięcznie |
-| Dane | wszystkie transakcje audytowane (timestamp + user_id) |
 
 ---
 
@@ -70,7 +69,6 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 - Dokumentacja wymagań funkcjonalnych i niefunkcjonalnych  
 - Podstawowe modele UML (Use Case, Activity, Class, Sequence)  
 - Podstawowy model danych SQL z przykładowymi zapytaniami  
-- Scenariusze testów akceptacyjnych  
 
 ---
 
