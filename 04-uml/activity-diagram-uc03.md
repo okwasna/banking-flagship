@@ -5,6 +5,7 @@ Diagram przedstawia przebieg procesu realizacji przelewu krajowego w systemie Mi
 Uwzględniono  ścieżki:
 -  Brak środków (BR-03)
 -  Limit przekroczony (BR-02)
+-  TimeOut operatora (BR-07)
 -  Sukces (zaktualizowane saldo i historia)
 
 Diagram opracowano w notacji UML (Activity Diagram) w narzędziu draw.io.
