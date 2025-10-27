@@ -39,7 +39,7 @@ Każdy przypadek został oznaczony unikalnym identyfikatorem (UC-ID) i opisuje k
 - Niepoprawny kod 2FA → komunikat o błędzie.  
 - Po N nieudanych próbach → konto zablokowane czasowo.
 
-**Powiązania:** NFR – Security (2FA), BR-06 (Audit)
+**Powiązania:** NFR – Security (2FA)
 
 ---
 
@@ -77,7 +77,7 @@ Każdy przypadek został oznaczony unikalnym identyfikatorem (UC-ID) i opisuje k
 **Alternatywy:**
 - Brak danych w wybranym zakresie → komunikat „Brak wyników”.
 
-**Powiązania:** NFR – Performance, BR-06 (Audit)
+**Powiązania:** NFR – Performance
 
 ---
 
@@ -115,7 +115,7 @@ Każdy przypadek został oznaczony unikalnym identyfikatorem (UC-ID) i opisuje k
 - Wniosek odrzucony przez AML → komunikat z uzasadnieniem.  
 - Brak odpowiedzi AML → status „oczekuje na weryfikację”.
 
-**Powiązania:** BR-01 (Limits), BR-06 (Audit), NFR – Auditability
+**Powiązania:** BR-01 (Limits), NFR – Auditability
 
 ---
 
