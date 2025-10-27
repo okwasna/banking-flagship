@@ -64,6 +64,8 @@ Poza zakresem MVP (out of scope):
 📅 Projekt w trakcie realizacji (etap: modelowanie BPMN).  
 Repozytorium będzie uzupełniane etapami – każdy folder odpowiada kolejnemu krokowi w analizie systemu bankowego.
 
+Do zrobienia:
+- bpmn, figma, uml komponentow, baza sql, dokument w confluence, uml aktywnosci pozostale use case
 ---
 
 ##  Autor
