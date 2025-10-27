@@ -2,10 +2,9 @@
 ### Activity Diagram – UC-03: Wyślij przelew krajowy
 
 Diagram przedstawia przebieg procesu realizacji przelewu krajowego w systemie Mini-bank.  
-Uwzględniono cztery ścieżki:
+Uwzględniono  ścieżki:
 -  Brak środków (BR-03)
 -  Limit przekroczony (BR-02)
--  Timeout operatora (BR-07)
 -  Sukces (zaktualizowane saldo i historia)
 
 Diagram opracowano w notacji UML (Activity Diagram) w narzędziu draw.io.
