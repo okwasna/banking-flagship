@@ -3,7 +3,7 @@
 Ten projekt to symulacja pracy **analityka biznesowo-systemowego** w branży bankowej.  
 Przedstawia proces tworzenia systemu obsługującego **konto osobiste oraz przelewy krajowe** — od pomysłu, przez analizę procesów biznesowych, aż po model danych i testy akceptacyjne.
 
-Projekt został stworzony jako element portfolio i pokazuje pełny przekrój pracy analityka:  
+Projekt został stworzony jako element portfolio i pokazuje przekrój pracy analityka:  
 modelowanie procesów (BPMN), analizę wymagań (UML, user stories) i tworzenie struktur danych (SQL).
 
 ---
