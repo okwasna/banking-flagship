@@ -46,7 +46,6 @@ Poza zakresem MVP (out of scope):
 | `04-uml` | przypadki użycia, diagramy klas i sekwencji |
 | `05-stories` | user stories oraz kryteria akceptacji |
 | `06-data-sql` | model danych i zapytania SQL |
-| `07-uat` | plan testów i scenariusze UAT |
 | `99-demo` | podsumowanie projektu (screeny, wideo) |
 
 ---
