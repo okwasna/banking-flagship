@@ -44,6 +44,7 @@ Celem jest potwierdzenie tożsamości klienta w ramach procedury **KYC (Know You
 ---
 
 ![BPMN – Onboarding/KYC](./Onboarding _ KYC BPMN.png)
+
 ---
 
 ###  Komentarz analityczny
