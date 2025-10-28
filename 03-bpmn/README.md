@@ -28,7 +28,6 @@ Każdy proces opisuje główne funkcjonalności systemu obsługi konta osobisteg
 
 ---
 
-![OnboardingKYCBPMN.png](./OnboardingKYCBPMN.png)
 
 ---
 
