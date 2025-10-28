@@ -9,9 +9,9 @@ Każdy proces opisuje główne funkcjonalności systemu obsługi konta osobisteg
 
 | Plik | Opis | Główne bramki / reguły biznesowe |
 |------|------|-----------------------------------|
-| **BPMN_01_Onboarding_KYC.drawio** | Proces zakładania konta i weryfikacji tożsamości (KYC). | BR-01 – dane osobowe poprawne<br>BR-02 – weryfikacja KYC ≤ 24h |
-| **BPMN_02_Przelew_Krajowy.drawio** | Proces wykonania przelewu krajowego, uwzględniający ścieżkę główną i wyjątki (brak środków, limit, błąd). | BR-04 – poprawność konta IBAN<br>BR-05 – limit dzienny 20 000 PLN<br>BR-06 – saldo ≥ kwota przelewu |
-| **BPMN_03_Reklamacja_Przewelu.drawio** | Proces zgłaszania i obsługi reklamacji przelewu. | BR-08 – reklamacja do 30 dni<br>BR-09 – rozpatrzenie w 14 dni<br>BR-10 – tylko właściciel może zgłosić reklamację |
+| **OnboardingKYC.png** | Proces zakładania konta i weryfikacji tożsamości (KYC). | BR-01 – dane osobowe poprawne<br>BR-02 – weryfikacja KYC ≤ 24h |
+| **Przelewkrajowy.png** | Proces wykonania przelewu krajowego, uwzględniający ścieżkę główną i wyjątki (brak środków, limit, błąd). | BR-04 – poprawność konta IBAN<br>BR-05 – limit dzienny 20 000 PLN<br>BR-06 – saldo ≥ kwota przelewu |
+| **Reklamacjaprzewelu.png** | Proces zgłaszania i obsługi reklamacji przelewu. | BR-08 – reklamacja do 30 dni<br>BR-09 – rozpatrzenie w 14 dni<br>BR-10 – tylko właściciel może zgłosić reklamację |
 
 ---
 
