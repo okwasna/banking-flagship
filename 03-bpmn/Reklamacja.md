@@ -68,8 +68,9 @@ Komunikacja między uczestnikami odbywa się poprzez:
 
 - **System → Dział Obsługi**:
   - Przekazanie zgłoszenia do analizy
-
+    
+![Reklamacja.png](./Reklamacja.png)
 ---
 
 ```markdown
-![Reklamacja.png](./Reklamacja.png)
+
