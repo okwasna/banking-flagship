@@ -1,5 +1,14 @@
 #  Vision – Mini-bank: konto osobiste + przelewy krajowe (MVP)
 
+## Problem biznesowy
+
+Klienci banków oczekują szybkiego i zdalnego dostępu do podstawowych operacji finansowych. 
+Istniejące kanały bywają skomplikowane, a proces reklamacyjny jest nieintuicyjny.
+Brakuje przejrzystości statusów operacji oraz szybkiej reakcji na błędne transakcje.
+Mini-bank adresuje te problemy poprzez prosty, czytelny kanał online.
+
+
+
 ##  Cel i kontekst projektu
 
 Projekt **Mini-bank** ma na celu zaprojektowanie uproszczonego systemu bankowego dla klientów detalicznych w Polsce.  
@@ -15,12 +24,16 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 
 ---
 
-##  Wartość biznesowa 
+# Wartość dla użytkownika:
+- szybkie przelewy
+- jasny status operacji
+- intuicyjne reklamacje
+- dostępność 24/7
 
-- Zapewnienie **intuicyjnego kanału online** dla obsługi podstawowych operacji bankowych  
-- Skrócenie czasu realizacji przelewów i reklamacji  
-- Zwiększenie satysfakcji klientów poprzez dostępność 24/7  
-- Wzmocnienie bezpieczeństwa i przejrzystości operacji  
+# Wartość dla biznesu:
+- odciążenie infolinii
+- mniej błędów manualnych
+- automatyzacja reklamacji
 
 ---
 
