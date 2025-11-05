@@ -100,22 +100,7 @@ Każdy przypadek został oznaczony unikalnym identyfikatorem (UC-ID) i opisuje k
 
 ---
 
-## UC-06: Zwiększ limit dzienny (średniozaawansowany)
 
-**Aktorzy:** Klient, Konsultant, Moduł AML  
-**Cel:** Zwiększenie limitu przelewów po weryfikacji i akceptacji konsultanta.  
-
-**Główny przebieg:**
-1. Klient składa wniosek o podniesienie limitu.  
-2. Konsultant weryfikuje wniosek i przesyła do modułu AML.  
-3. Po akceptacji limit zostaje zaktualizowany.  
-4. Klient otrzymuje powiadomienie o nowym limicie.
-
-**Alternatywy:**
-- Wniosek odrzucony przez AML → komunikat z uzasadnieniem.  
-- Brak odpowiedzi AML → status „oczekuje na weryfikację”.
-
-**Powiązania:** BR-01 (Limits), NFR – Auditability
 
 ---
 
