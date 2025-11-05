@@ -24,13 +24,13 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 
 ---
 
-# Wartość dla użytkownika:
+## Wartość dla użytkownika:
 - szybkie przelewy
 - jasny status operacji
 - intuicyjne reklamacje
 - dostępność 24/7
 
-# Wartość dla biznesu:
+## Wartość dla biznesu:
 - odciążenie infolinii
 - mniej błędów manualnych
 - automatyzacja reklamacji
