@@ -51,7 +51,7 @@ Poza zakresem MVP (out of scope):
 Kolejność pracy:
 1. Analiza wymagań biznesowych
 2. Identyfikacja interesariuszy
-3. Definicja reguł biznesowych
+3. Definicja reguł biznesowych i wymagań
 4. Modelowanie procesów (BPMN)
 5. Modelowanie logiki systemowej (UML)
 6. Definicja modelu danych
