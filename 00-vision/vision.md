@@ -28,7 +28,7 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 
 ### Zakres v1.0:
 1. **Założenie konta (KYC light)** – uproszczona weryfikacja danych i aktywacja konta  
-2. **Logowanie i podgląd salda** – dostęp do podstawowych informacji finansowych  
+2. **Logowanie i podgląd salda** – dwuetapowa weryfikacji użytkownika i dostęp do podstawowych informacji finansowych  
 3. **Przelew krajowy** – z limitem dziennym i kontrolą salda  
 4. **Historia transakcji** – dostęp do listy i szczegółów operacji  
 5. **Reklamacja przelewu** – zgłoszenie reklamacji i śledzenie statusu  
