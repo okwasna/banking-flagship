@@ -55,6 +55,9 @@ Poza zakresem MVP (out of scope):
 - **Markdown / Confluence / GitHub** – dokumentacja projektu  
 
 ---
+## Standardy notacyjne
+- BPMN 2.0 (swimlanes, message flows, event types)
+- UML (Use Case, Activity, Sequence, Class, Component)
 
 ##  Status projektu
 
