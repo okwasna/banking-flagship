@@ -66,7 +66,7 @@ Kolejność pracy:
 - Diagram komponentów (architektura modułowa)
 - User stories + kryteria akceptacji
 - Reguły biznesowe BR-xx
-- Macierz śledzenia (traceability)
+
 
 ---
 
