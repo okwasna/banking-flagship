@@ -4,7 +4,7 @@ Ten projekt to symulacja pracy **analityka biznesowo-systemowego** w branży ban
 Przedstawia proces tworzenia systemu obsługującego **konto osobiste oraz przelewy krajowe** — od pomysłu, przez analizę procesów biznesowych, aż po model danych.
 
 Projekt został stworzony jako element portfolio i pokazuje przekrój pracy analityka:  
-modelowanie procesów (BPMN), analizę wymagań (UML, user stories) i tworzenie struktur danych (SQL).
+modelowanie procesów (BPMN), analizę wymagań (UML, user stories).
 
 ---
 
@@ -45,27 +45,22 @@ Poza zakresem MVP (out of scope):
 | `03-bpmn` | diagramy procesów biznesowych |
 | `04-uml` | przypadki użycia, diagramy klas i sekwencji |
 | `05-stories` | user stories oraz kryteria akceptacji |
-| `06-data-sql` | model danych i zapytania SQL |
-| `99-demo` | podsumowanie projektu (screeny, wideo) |
+
 
 ---
 
 ##  Użyte narzędzia
 
 - **Draw.io** – modelowanie BPMN i UML  
-- **Figma** – makiety interfejsu użytkownika  
-- **PostgreSQL** – baza danych i zapytania SQL  
 - **Markdown / Confluence / GitHub** – dokumentacja projektu  
 
 ---
 
 ##  Status projektu
 
-📅 Projekt w trakcie realizacji (etap: modelowanie BPMN).  
+📅 Projekt w trakcie realizacji   
 Repozytorium będzie uzupełniane etapami – każdy folder odpowiada kolejnemu krokowi w analizie systemu bankowego.
 
-Do zrobienia:
-- bpmn, figma, uml komponentow, baza sql, dokument w confluence, uml aktywnosci pozostale use case
 ---
 
 ##  Autor
