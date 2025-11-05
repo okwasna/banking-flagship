@@ -6,7 +6,7 @@ Model uwzględnia realistyczne zachowanie systemu bankowego, komunikację z uży
 
 ---
 
-## 🔄 Opis przebiegu procesu
+## Opis przebiegu procesu
 
 1. **Użytkownik** inicjuje proces, wybierając opcję **„Nowy przelew”**.
 2. Wprowadza dane przelewu (odbiorca, numer konta, kwota, tytuł).
