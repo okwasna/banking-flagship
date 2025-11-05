@@ -46,6 +46,27 @@ Poza zakresem MVP (out of scope):
 | `04-uml` | przypadki użycia, diagramy klas i sekwencji |
 | `05-stories` | user stories oraz kryteria akceptacji |
 
+## Metodyka podejścia
+
+Kolejność pracy:
+1. Analiza wymagań biznesowych
+2. Identyfikacja interesariuszy
+3. Definicja reguł biznesowych
+4. Modelowanie procesów (BPMN)
+5. Modelowanie logiki systemowej (UML)
+6. Definicja modelu danych
+7. Testy akceptacyjne (UAT)
+
+## Artefakty w projekcie
+
+- BPMN procesów end-to-end
+- Diagramy aktywności UML
+- Diagramy sekwencji
+- Diagram klas (model danych)
+- Diagram komponentów (architektura modułowa)
+- User stories + kryteria akceptacji
+- Reguły biznesowe BR-xx
+- Macierz śledzenia (traceability)
 
 ---
 
