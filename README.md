@@ -22,7 +22,7 @@ Celem jest zaprezentowanie umiejętności analitycznych w kontekście systemów 
 ## Zakres funkcjonalny (MVP)
 W ramach MVP system obejmuje następujące funkcjonalności:
 - Zakładanie konta (proces KYC) – możliwość utworzenia nowego konta użytkownika z weryfikacją tożsamości.
-- Logowanie i podgląd salda – uwierzytelnianie użytkownika oraz wyświetlanie aktualnego stanu konta i podstawowych danych klienta.
+- Logowanie 2FA i podgląd salda – uwierzytelnianie użytkownika oraz wyświetlanie aktualnego stanu konta i podstawowych danych klienta.
 - Wykonanie przelewu krajowego – inicjacja i realizacja przelewów pomiędzy kontami krajowymi.
 - Historia transakcji – dostęp do listy wykonanych operacji wraz z filtrowaniem po dacie, kwocie i statusie.
 - Reklamacja przelewu – możliwość zgłoszenia błędnej lub nieautoryzowanej transakcji.
