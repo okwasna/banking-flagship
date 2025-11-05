@@ -15,7 +15,7 @@ Celem jest zaprezentowanie umiejętności analitycznych w kontekście systemów 
 - odwzorowanie procesów biznesowych (np. przelew, reklamacja, weryfikacja klienta),  
 - zaprojektowanie podstawowego modelu danych,  
 - pokazanie przepływu informacji między systemami,  
-- zdefiniowanie reguł biznesowych i wymagań niefunkcjonalnych.
+- zdefiniowanie reguł biznesowych i wymagań funkcjonalnych oraz niefunkcjonalnych.
 
 ---
 
@@ -41,7 +41,7 @@ Poza zakresem MVP (out of scope):
 |---------|------------|
 | `00-vision` | wizja projektu, cele, KPI i słowniczek pojęć |
 | `01-stakeholders` | lista interesariuszy i opis ról |
-| `02-requirements` | reguły biznesowe i wymagania niefunkcjonalne |
+| `02-requirements` | reguły biznesowe i wymagania funkcjonalne oraz niefunkcjonalne |
 | `03-bpmn` | diagramy procesów biznesowych |
 | `04-uml` | przypadki użycia, diagramy klas i sekwencji |
 | `05-stories` | user stories oraz kryteria akceptacji |
