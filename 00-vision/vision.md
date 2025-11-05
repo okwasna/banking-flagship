@@ -68,7 +68,6 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 - Gotowy model analityczny systemu bankowego (procesy, diagramy, reguły)  
 - Dokumentacja wymagań funkcjonalnych i niefunkcjonalnych  
 - Podstawowe modele UML (Use Case, Activity, Class, Sequence)  
-- Podstawowy model danych SQL z przykładowymi zapytaniami  
 
 ---
 
