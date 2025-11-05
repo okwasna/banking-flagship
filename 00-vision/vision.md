@@ -15,7 +15,7 @@ System pozwala na **szybkie i bezpieczne wykonywanie przelewów krajowych**, pod
 
 ---
 
-##  Wartość biznesowa (Po co)
+##  Wartość biznesowa 
 
 - Zapewnienie **intuicyjnego kanału online** dla obsługi podstawowych operacji bankowych  
 - Skrócenie czasu realizacji przelewów i reklamacji  
