@@ -60,6 +60,14 @@ Poza zakresem MVP (out of scope):
 
 📅 Projekt w trakcie realizacji   
 Repozytorium będzie uzupełniane etapami – każdy folder odpowiada kolejnemu krokowi w analizie systemu bankowego.
+Jak korzystać z repozytorium
+
+## Jeśli chcesz szybko zrozumieć projekt:
+1. Zacznij od folderu `00-vision` – kontekst biznesowy i cel projektu.
+2. Przejdź do `02-requirements` – zobacz wymagania i reguły biznesowe.
+3. Następnie `03-bpmn` – wizualizacja procesów end-to-end.
+4. `04-uml` – logika systemowa, interakcje komponentów i model danych.
+5. `05-stories` – przypadki użycia z perspektywy użytkownika.
 
 ---
 
